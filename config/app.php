@@ -291,7 +291,7 @@ return [
          */
         'default' => [
             'className' => Connection::class,
-            'driver' => Mysql::class,
+            'driver' => 'Dummy',
             'persistent' => false,
             'timezone' => 'UTC',
 
