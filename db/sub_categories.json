@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "category_id": 1,
+        "name": "Alcalino leve"
+    },
+    {
+        "id": 2,
+        "category_id": 1,
+        "name": "Alcalino medio"
+    },
+    {
+        "id": 3,
+        "category_id": 1,
+        "name": "Alcalino rojo"
+    },
+    {
+        "id": 4,
+        "category_id": 1,
+        "name": "Black pearl"
+    },
+    {
+        "id": 5,
+        "category_id": 1,
+        "name": "Alcalino"
+    },
+    {
+        "id": 6,
+        "category_id": 1,
+        "name": "8%"
+    },
+    {
+        "id": 7,
+        "category_id": 1,
+        "name": "10-12%"
+    },
+    {
+        "id": 8,
+        "category_id": 1,
+        "name": "22-24%"
+    },
+    {
+        "id": 9,
+        "category_id": 1,
+        "name": "Negro"
+    },
+    {
+        "id": 10,
+        "category_id": 1,
+        "name": "Natural"
+    },
+    {
+        "id": 11,
+        "category_id": 2,
+        "name": "Natural"
+    },
+    {
+        "id": 12,
+        "category_id": 2,
+        "name": "Alcalino"
+    },
+    {
+        "id": 13,
+        "category_id": 3,
+        "name": "Desodorizada"
+    },
+    {
+        "id": 14,
+        "category_id": 3,
+        "name": "Natural"
+    },
+    {
+        "id": 15,
+        "category_id": 4,
+        "name": "Natural"
+    },
+    {
+        "id": 16,
+        "category_id": 5,
+        "name": "Vegetal"
+    }
+]

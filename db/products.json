@@ -1,0 +1,462 @@
+[
+    {
+        "id": 1,
+        "name": "CACAO EN POLVO ALCALINO BARRY RL1 BOLSA 25 KG",
+        "category_id": 1,
+        "sub_category_id": 1,
+        "origin_id": 1,
+        "brand": "BARRY CALLEBAUT",
+        "fat": "10-12%",
+        "short_description": "Bolsa de cacao en polvo. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "20 cm",
+            "height": "64 cm",
+            "width": "40 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "Es un polvo soluble de flujo libre proveniente de la torta de cacao alcalina pulverizada obtenido por proceso del prensado de la pasta de cacao alcalina. El producto es elaborado a partir de semillas de cacao. Se utiliza para repostería, baño de repostería, elaboracion de chocolate, galletitas, budines, pan dulces y leches chocolatadas."
+    },
+    {
+        "id": 2,
+        "name": "CACAO EN POLVO ALCALINO BARRY AC700 BOLSA 25 KG",
+        "category_id": 1,
+        "sub_category_id": 1,
+        "origin_id": 1,
+        "brand": "BARRY CALLEBAUT",
+        "fat": "10-12%",
+        "short_description": "Bolsa de cacao en polvo. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "20 cm",
+            "height": "64 cm",
+            "width": "40 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "Es un polvo soluble de flujo libre proveniente de la torta de cacao alcalina pulverizada obtenido por proceso del prensado de la pasta de cacao alcalina. El producto es elaborado a partir de semillas de cacao. Se utiliza para repostería, baño de repostería, elaboracion de chocolate, galletitas, budines, pan dulces y leches chocolatadas."
+    },
+    {
+        "id": 3,
+        "name": "CACAO EN POLVO ALCALINO BARRY AC720 BOLSA 25 KG",
+        "category_id": 1,
+        "sub_category_id": 2,
+        "origin_id": 1,
+        "brand": "BARRY CALLEBAUT",
+        "fat": "10-12%",
+        "short_description": "Bolsa de cacao en polvo. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "20 cm",
+            "height": "64 cm",
+            "width": "40 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "Es un polvo soluble de flujo libre proveniente de la torta de cacao alcalina pulverizada obtenido por proceso del prensado de la pasta de cacao alcalina. El producto es elaborado a partir de semillas de cacao. Se utiliza para repostería, baño de repostería, elaboracion de chocolate, galletitas, budines, pan dulces y leches chocolatadas."
+    },
+    {
+        "id": 4,
+        "name": "CACAO EN POLVO ALCALINO BARRY ROJO AC75 BOLSA 25 KG",
+        "category_id": 1,
+        "sub_category_id": 3,
+        "origin_id": 1,
+        "brand": "BARRY CALLEBAUT",
+        "fat": "10-12%",
+        "short_description": "Bolsa de cacao en polvo. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "20 cm",
+            "height": "64 cm",
+            "width": "40 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "Es un polvo soluble de flujo libre proveniente de la torta de cacao alcalina pulverizada obtenido por proceso del prensado de la pasta de cacao alcalina. El producto es elaborado a partir de semillas de cacao. Se utiliza para repostería, baño de repostería, elaboracion de chocolate, galletitas, budines, pan dulces y leches chocolatadas."
+    },
+    {
+        "id": 5,
+        "name": "CACAO EN POLVO ALCALINO NEGRO BARRY BOLSA 25 KG",
+        "category_id": 1,
+        "sub_category_id": 4,
+        "origin_id": 1,
+        "brand": "BARRY CALLEBAUT",
+        "fat": "10-12%",
+        "short_description": "Bolsa de cacao en polvo. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "20 cm",
+            "height": "64 cm",
+            "width": "40 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "Es un polvo soluble de flujo libre proveniente de la torta de cacao alcalina pulverizada obtenido por proceso del prensado de la pasta de cacao alcalina. El producto es elaborado a partir de semillas de cacao. Se utiliza para repostería, baño de repostería, elaboracion de chocolate, galletitas, budines, pan dulces y leches chocolatadas."
+    },
+    {
+        "id": 6,
+        "name": "CACAO EN POLVO ALCALINO ABIJAN BOLSA 25 KG",
+        "category_id": 1,
+        "sub_category_id": 5,
+        "origin_id": 2,
+        "brand": "ABIJAN",
+        "fat": "10-12%",
+        "short_description": "Bolsa de cacao en polvo. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "20 cm",
+            "height": "64 cm",
+            "width": "40 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "Es un polvo soluble de flujo libre proveniente de la torta de cacao alcalina pulverizada obtenido por proceso del prensado de la pasta de cacao alcalina. El producto es elaborado a partir de semillas de cacao. Se utiliza para repostería, baño de repostería, elaboracion de chocolate, galletitas, budines, pan dulces y leches chocolatadas."
+    },
+    {
+        "id": 7,
+        "name": "CACAO EN POLVO ALCALINO KRIBI 8% BOLSA 25 KG",
+        "category_id": 1,
+        "sub_category_id": 6,
+        "origin_id": 3,
+        "brand": "KRIBI",
+        "fat": "8%",
+        "short_description": "Bolsa de cacao en polvo. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "20 cm",
+            "height": "64 cm",
+            "width": "40 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "Es un polvo soluble de flujo libre proveniente de la torta de cacao alcalina pulverizada obtenido por proceso del prensado de la pasta de cacao alcalina. El producto es elaborado a partir de semillas de cacao. Se utiliza para repostería, baño de repostería, elaboracion de chocolate, galletitas, budines, pan dulces y leches chocolatadas. Recomendable para productos de bajas calorias debido a su bajo tenor graso."
+    },
+    {
+        "id": 8,
+        "name": "CACAO EN POLVO ALCALINO KRIBI 10-12% BOLSA 25 KG",
+        "category_id": 1,
+        "sub_category_id": 7,
+        "origin_id": 3,
+        "brand": "KRIBI",
+        "fat": "10-12%",
+        "short_description": "Bolsa de cacao en polvo. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "20 cm",
+            "height": "64 cm",
+            "width": "40 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "Es un polvo soluble de flujo libre proveniente de la torta de cacao alcalina pulverizada obtenido por proceso del prensado de la pasta de cacao alcalina. El producto es elaborado a partir de semillas de cacao. Se utiliza para repostería, baño de repostería, elaboracion de chocolate, galletitas, budines, pan dulces y leches chocolatadas."
+    },
+    {
+        "id": 9,
+        "name": "CACAO EN POLVO ALCALINO KRIBI 22-24% BOLSA 25 KG",
+        "category_id": 1,
+        "sub_category_id": 8,
+        "origin_id": 3,
+        "brand": "KRIBI",
+        "fat": "22-24%",
+        "short_description": "Bolsa de cacao en polvo. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "20 cm",
+            "height": "64 cm",
+            "width": "40 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "Es un polvo soluble de flujo libre proveniente de la torta de cacao alcalina pulverizada obtenido por proceso del prensado de la pasta de cacao alcalina. El producto es elaborado a partir de semillas de cacao. Se utiliza principalmente en heladería ya que tiene un sabor mas intenso, tambien se utiliza en repostería debido a que produce impermeabilización en las tortas y no largan la humedad."
+    },
+    {
+        "id": 10,
+        "name": "CACAO EN POLVO ALCALINO NEGRO KRIBI BOLSA 25 KG",
+        "category_id": 1,
+        "sub_category_id": 9,
+        "origin_id": 3,
+        "brand": "KRIBI",
+        "fat": "10-12%",
+        "short_description": "Bolsa de cacao en polvo. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "20 cm",
+            "height": "64 cm",
+            "width": "40 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "Es un polvo soluble de flujo libre proveniente de la torta de cacao alcalina pulverizada obtenido por proceso del prensado de la pasta de cacao alcalina. El producto es elaborado a partir de semillas de cacao. Se utiliza para repostería, baño de repostería, elaboracion de chocolate, galletitas, budines, pan dulces y leches chocolatadas."
+    },
+    {
+        "id": 11,
+        "name": "CACAO EN POLVO ALCALINO GERKENS BOLSA 25 KG",
+        "category_id": 1,
+        "sub_category_id": 5,
+        "origin_id": 1,
+        "brand": "GERKENS",
+        "fat": "10-12%",
+        "short_description": "Bolsa de cacao en polvo. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "20 cm",
+            "height": "64 cm",
+            "width": "40 cm"
+        },
+        "shelf_life": "36 meses",
+        "long_description": "Es un polvo soluble de flujo libre proveniente de la torta de cacao alcalina pulverizada obtenido por proceso del prensado de la pasta de cacao alcalina. El producto es elaborado a partir de semillas de cacao. Se utiliza para repostería, baño de repostería, elaboracion de chocolate, galletitas, budines, pan dulces y leches chocolatadas."
+    },
+    {
+        "id": 12,
+        "name": "CACAO EN POLVO NATURAL BARRY BOLSA 25 KG",
+        "category_id": 1,
+        "sub_category_id": 10,
+        "origin_id": 1,
+        "brand": "BARRY CALLEBAUT",
+        "fat": "10-12%",
+        "short_description": "Bolsa de cacao en polvo. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "20 cm",
+            "height": "64 cm",
+            "width": "40 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "Es un polvo soluble de flujo libre proveniente de la torta de cacao alcalina pulverizada obtenido por proceso del prensado de la pasta de cacao alcalina. El producto es elaborado a partir de semillas de cacao. Se utiliza para repostería, baño de repostería, elaboracion de chocolate, galletitas, budines, pan dulces y leches chocolatadas."
+    },
+    {
+        "id": 13,
+        "name": "LICOR/PASTA DE CACAO NATURAL BARRY BOLSA 25 KG",
+        "category_id": 2,
+        "sub_category_id": 11,
+        "origin_id": 1,
+        "brand": "BARRY CALLEBAUT",
+        "fat": "50-54%",
+        "short_description": "Bolsa de licor de cacao. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "14 cm",
+            "height": "79 cm",
+            "width": "51 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "Es un producto obtenido, mediante la molienda de semillas de cacao previamente descascaradas y tostadas, sin la adición de aditivos, la pasta obtenida puede servir para la producción de manteca de cacao y polvo de cacao, o bien para la fabricación de chocolates. El producto es elaborado a partir de semillas de cacao. Se utiliza para elaboración de chocolate, de baños de repostería, repostería y heladería."
+    },
+    {
+        "id": 14,
+        "name": "LICOR/PASTA DE CACAO NATURAL ABIJAN BOLSA 25 KG",
+        "category_id": 2,
+        "sub_category_id": 11,
+        "origin_id": 2,
+        "brand": "ABIJAN",
+        "fat": "50-54%",
+        "short_description": "Bolsa de licor de cacao. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "14 cm",
+            "height": "79 cm",
+            "width": "51 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "Es un producto obtenido, mediante la molienda de semillas de cacao previamente descascaradas y tostadas, sin la adición de aditivos, la pasta obtenida puede servir para la producción de manteca de cacao y polvo de cacao, o bien para la fabricación de chocolates. El producto es elaborado a partir de semillas de cacao. Se utiliza para elaboración de chocolate, de baños de repostería, repostería y heladería."
+    },
+    {
+        "id": 15,
+        "name": "LICOR/PASTA DE CACAO NATURAL GERKENS BOLSA 25 KG",
+        "category_id": 2,
+        "sub_category_id": 11,
+        "origin_id": 1,
+        "brand": "GERKENS",
+        "fat": "50-54%",
+        "short_description": "Bolsa de licor de cacao. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "14 cm",
+            "height": "79 cm",
+            "width": "51 cm"
+        },
+        "shelf_life": "12 meses",
+        "long_description": "Es un producto obtenido, mediante la molienda de semillas de cacao previamente descascaradas y tostadas, sin la adición de aditivos, la pasta obtenida puede servir para la producción de manteca de cacao y polvo de cacao, o bien para la fabricación de chocolates. El producto es elaborado a partir de semillas de cacao. Se utiliza para elaboración de chocolate, de baños de repostería, repostería y heladería."
+    },
+    {
+        "id": 16,
+        "name": "LICOR/PASTA DE CACAO ALCALINO BARRY BOLSA 25 KG",
+        "category_id": 2,
+        "sub_category_id": 12,
+        "origin_id": 1,
+        "brand": "BARRY CALLEBAUT",
+        "fat": "50-54%",
+        "short_description": "Bolsa de licor de cacao. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "14 cm",
+            "height": "79 cm",
+            "width": "51 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "Es un producto obtenido, mediante la molienda de semillas de cacao previamente descascaradas y tostadas, sin la adición de aditivos, la pasta obtenida puede servir para la producción de manteca de cacao y polvo de cacao, o bien para la fabricación de chocolates. El producto es elaborado a partir de semillas de cacao. Se utiliza para elaboración de chocolate, de baños de repostería, repostería y heladería."
+    },
+    {
+        "id": 17,
+        "name": "MANTECA DE CACAO DESODORIZADA BARRY CAJA 25 KG",
+        "category_id": 3,
+        "sub_category_id": 13,
+        "origin_id": 1,
+        "brand": "BARRY CALLEBAUT",
+        "fat": "100%",
+        "short_description": "Caja de manteca de cacao. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "CAJA",
+            "weight": "25 KG",
+            "depth": "25 cm",
+            "height": "30 cms",
+            "width": "40 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "La manteca de cacao se obtiene mediante prensado hidráulico de licor de cacao, que separa la manteca de los sólidos del cacao (torta). Esta manteca luego se filtra para eliminar los residuos sólidos y para que luego se pueda empaquetar en cajas de cartón. Se utiliza para baños de repostería, chocolate y cobertura, comestica y helados"
+    },
+    {
+        "id": 18,
+        "name": "MANTECA DE CACAO DESODORIZADA GERKENS CAJA 25 KG",
+        "category_id": 3,
+        "sub_category_id": 13,
+        "origin_id": 1,
+        "brand": "GERKENS",
+        "fat": "100%",
+        "short_description": "Caja de manteca de cacao. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "CAJA",
+            "weight": "25 KG",
+            "depth": "25 cm",
+            "height": "30 cms",
+            "width": "40 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "La manteca de cacao se obtiene mediante prensado hidráulico de licor de cacao, que separa la manteca de los sólidos del cacao (torta). Esta manteca luego se filtra para eliminar los residuos sólidos y para que luego se pueda empaquetar en cajas de cartón. Se utiliza para baños de repostería, chocolate y cobertura, comestica y helados"
+    },
+    {
+        "id": 19,
+        "name": "MANTECA DE CACAO NATURAL BARRY CAJA 25 KG",
+        "category_id": 3,
+        "sub_category_id": 14,
+        "origin_id": 1,
+        "brand": "BARRY CALLEBAUT",
+        "fat": "100%",
+        "short_description": "Caja de manteca de cacao. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "CAJA",
+            "weight": "25 KG",
+            "depth": "25 cm",
+            "height": "30 cms",
+            "width": "40 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "La manteca de cacao se obtiene mediante prensado hidráulico de licor de cacao, que separa la manteca de los sólidos del cacao (torta). Esta manteca luego se filtra para eliminar los residuos sólidos y para que luego se pueda empaquetar en cajas de cartón. Se utiliza para baños de repostería, chocolate y cobertura, comestica y helados"
+    },
+    {
+        "id": 20,
+        "name": "MANTECA DE CACAO NATURAL GERKENS CAJA 25 KG",
+        "category_id": 3,
+        "sub_category_id": 14,
+        "origin_id": 1,
+        "brand": "GERKENS",
+        "fat": "100%",
+        "short_description": "Caja de manteca de cacao. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "CAJA",
+            "weight": "25 KG",
+            "depth": "25 cm",
+            "height": "30 cms",
+            "width": "40 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "La manteca de cacao se obtiene mediante prensado hidráulico de licor de cacao, que separa la manteca de los sólidos del cacao (torta). Esta manteca luego se filtra para eliminar los residuos sólidos y para que luego se pueda empaquetar en cajas de cartón. Se utiliza para baños de repostería, chocolate y cobertura, comestica y helados"
+    },
+    {
+        "id": 21,
+        "name": "MANTECA DE CACAO NATURAL ABIJAN CAJA 25 KG",
+        "category_id": 3,
+        "sub_category_id": 14,
+        "origin_id": 2,
+        "brand": "ABIJAN",
+        "fat": "100%",
+        "short_description": "Caja de manteca de cacao. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "CAJA",
+            "weight": "25 KG",
+            "depth": "25 cm",
+            "height": "30 cms",
+            "width": "40 cm"
+        },
+        "shelf_life": "24 meses",
+        "long_description": "La manteca de cacao se obtiene mediante prensado hidráulico de licor de cacao, que separa la manteca de los sólidos del cacao (torta). Esta manteca luego se filtra para eliminar los residuos sólidos y para que luego se pueda empaquetar en cajas de cartón. Se utiliza para baños de repostería, chocolate y cobertura, comestica y helados"
+    },
+    {
+        "id": 22,
+        "name": "NIBS/GRANOS DE CACAO BOLSA 25 KG",
+        "category_id": 4,
+        "sub_category_id": 15,
+        "origin_id": 2,
+        "brand": "-",
+        "fat": "48%",
+        "short_description": "Bolsa de nibs de cacao. Contenido neto 25 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "BOLSA DE PAPEL KRAFT",
+            "weight": "25 KG",
+            "depth": "20 cm",
+            "height": "64 cm",
+            "width": "40 cm"
+        },
+        "shelf_life": "12 meses",
+        "long_description": "Las NIBS de cacao se obtienen de las semillas que una vez tostadas, se descascarillan y se machacan.El producto es elaborado a partir de semillas de cacao."
+    },
+    {
+        "id": 23,
+        "name": "ACEITE VEGETAL DE PALMA/COCO CAJA 20 KG",
+        "category_id": 5,
+        "sub_category_id": 16,
+        "origin_id": 4,
+        "brand": "MOI",
+        "fat": "100%",
+        "short_description": "Caja de aceite de palma/coco. Contenido neto 20 Kg",
+        "product_code": "n/a",
+        "packaging": {
+            "type": "CAJA",
+            "weight": "20 KG",
+            "depth": "25 cm",
+            "height": "25 cm",
+            "width": "38 cm"
+        },
+        "shelf_life": "18 meses",
+        "long_description": "El aceite está hecho de grasa vegetal a base de láurico totalmente hidrogenada. Excelente para hacer chocolate compuesto, moldear y recubrir.\nNo se recomienda mezclar el producto con grasas no láuricas. En recetas con cacao en polvo, use solo grado desgrasado o bajo en grasa."
+    }
+]

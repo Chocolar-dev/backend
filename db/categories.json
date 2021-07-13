@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Cacao en polvo"
+    },
+    {
+        "id": 2,
+        "name": "Licor/Pasta de cacao"
+    },
+    {
+        "id": 3,
+        "name": "Manteca de cacao"
+    },
+    {
+        "id": 4,
+        "name": "Nibs/Granos de cacao"
+    },
+    {
+        "id": 5,
+        "name": "Aceite de palma"
+    }
+]
