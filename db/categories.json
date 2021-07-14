@@ -1,22 +1,75 @@
 [
     {
         "id": 1,
-        "name": "Cacao en polvo"
+        "name": "Cacao en polvo",
+        "categoryDescr": "lorem",
+        "categoryImg": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 2,
-        "name": "Licor/Pasta de cacao"
-    },
+        "name": "Licor/Pasta de cacao",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
+  },
     {
         "id": 3,
-        "name": "Manteca de cacao"
+        "name": "Manteca de cacao",
+        "categoryDescr": "lorem",
+        "categoryImg": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 4,
-        "name": "Nibs/Granos de cacao"
-    },
+        "name": "Nibs/Granos de cacao",
+        "categoryDescr": "lorem",
+        "categoryImg": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
+  },
     {
         "id": 5,
-        "name": "Aceite de palma"
+        "name": "Aceite de palma",
+        "categoryDescr": "lorem",
+        "categoryImg": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/ "
+
     }
 ]
+
+
+

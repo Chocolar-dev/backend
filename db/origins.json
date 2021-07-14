@@ -1,18 +1,59 @@
 [
     {
         "id": 1,
-        "name": "Brasil"
+        "name": "Brasil",
+        "originDescr": "lorem",
+        "originImg": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
+        
     },
     {
         "id": 2,
-        "name": "Ecuador"
+        "name": "Ecuador",
+        "originDescr": "lorem",
+        "originImg": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 3,
-        "name": "China"
+        "name": "China",
+        "originDescr": "lorem",
+        "originImg": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 4,
-        "name": "Ecuador/Malasia"
+        "name": "Ecuador/Malasia",
+        "originDescr": "lorem",
+        "originImg": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     }
 ]
