@@ -22,5 +22,8 @@ $routes->scope('/api', function (RouteBuilder $builder) {
     // Parse specified extensions from URLs
     // $builder->setExtensions(['json', 'xml']);
 
-    // Connect API actions here.
+    $builder->get('/categories', ['controller' => 'Categories', 'action' => 'get']);
+    $builder->get('/sub-categories', ['controller' => 'SubCategories', 'action' => 'get']);
+    $builder->get('/products', ['controller' => 'Products', 'action' => 'get']);
+    $builder->get('/origins', ['controller' => 'Origins', 'action' => 'get']);
 });
