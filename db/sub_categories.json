@@ -2,81 +2,241 @@
     {
         "id": 1,
         "category_id": 1,
-        "name": "Alcalino leve"
+        "name": "Alcalino leve",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 2,
         "category_id": 1,
-        "name": "Alcalino medio"
+        "name": "Alcalino medio",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 3,
         "category_id": 1,
-        "name": "Alcalino rojo"
+        "name": "Alcalino rojo",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 4,
         "category_id": 1,
-        "name": "Black pearl"
+        "name": "Black pearl",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 5,
         "category_id": 1,
-        "name": "Alcalino"
+        "name": "Alcalino",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 6,
         "category_id": 1,
-        "name": "8%"
+        "name": "8%",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 7,
         "category_id": 1,
-        "name": "10-12%"
+        "name": "10-12%",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 8,
         "category_id": 1,
-        "name": "22-24%"
+        "name": "22-24%",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 9,
         "category_id": 1,
-        "name": "Negro"
+        "name": "Negro",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 10,
         "category_id": 1,
-        "name": "Natural"
+        "name": "Natural",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 11,
         "category_id": 2,
-        "name": "Natural"
+        "name": "Natural",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 12,
         "category_id": 2,
-        "name": "Alcalino"
+        "name": "Alcalino",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 13,
         "category_id": 3,
-        "name": "Desodorizada"
+        "name": "Desodorizada",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 14,
         "category_id": 3,
-        "name": "Natural"
+        "name": "Natural",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 15,
         "category_id": 4,
-        "name": "Natural"
+        "name": "Natural",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     },
     {
         "id": 16,
         "category_id": 5,
-        "name": "Vegetal"
+        "name": "Vegetal",
+        "categoryDescr": "lorem",
+        "categoryImgUrl": "https://www.chocolarsrl.com.ar/img/home/1.jpg",
+        "metaTitle": "Test",
+        "metaDescription": "lorem ispum",
+        "metaUrl": "https://chocolarsrl.com.ar/test",
+        "metaImage": "https://www.chocolarsrl.com.ar/img/home/1.",
+        "metaSiteName": "Chocolar",
+        "metaContentType": "website",
+        "metaLanguage": "es-AR",
+        "comment": "Documentacion para información meta de Open Graph. https://ogp.me/"
     }
 ]
